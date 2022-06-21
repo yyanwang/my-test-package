@@ -1,0 +1,27 @@
+{
+  "name": "my-test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create": "sentry-cli releases new <release_name>",
+    "delete":"sentry-cli help",
+    "upload":"sentry-cli help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyanwang/my-test-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyanwang/my-test-package/issues"
+  },
+  "homepage": "https://github.com/yyanwang/my-test-package#readme",
+  "dependencies": {
+    "@sentry/cli": "^2.2.0",
+    "@talend/management-console": "1.38.2"
+  }
+}
