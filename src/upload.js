@@ -15,7 +15,7 @@ async function uploadSourceMaps(release) {
 async function deleteRelease(release) {
 
 }
-
+createNewRelease('tmc@0.0.1');
 uploadSourceMaps('tmc@1.38.2')
 
 
