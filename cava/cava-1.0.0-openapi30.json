@@ -1,0 +1,10 @@
+{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "cava",
+    "description" : "",
+    "contact" : { },
+    "version" : "1.0.0"
+  },
+  "paths" : { }
+}
