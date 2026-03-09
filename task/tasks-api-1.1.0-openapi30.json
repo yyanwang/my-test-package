@@ -2,8 +2,7 @@
   "openapi" : "3.0.1",
   "info" : {
     "title" : "Tasks API",
-    "description" : "An API for managing tasks and to-do items",
-    "contact" : { },
+    "description" : "An API for managing tasks and to-do items. change something",
     "version" : "1.1.0"
   },
   "paths" : {
